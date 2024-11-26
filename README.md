@@ -1,1 +1,1 @@
-"This is a sample project for practice Git commands." 
+"This is a sample project for practice Git commands in login." 
